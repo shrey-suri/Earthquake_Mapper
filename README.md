@@ -12,6 +12,12 @@
    - **Appears** only for the selected Earthquake Marker
    - **Disappears** when we deselect the Marker or we are outside the Marker
  - Cross Icon
- - Countries colored as per the number of Earthquakes happened in that country
+   - Used to represent the Earthquakes which happened **past hour or past day** 
+   - The past hour or past day Earthquakes have **different colors**
+ - Countries are colored
+   - The more a country's color is **closer to BLACK** the more No. of Earthquakes happened there.
+   - The more a country's color is **closer to WHITE** the less No. of Earthquakes happened there.
+   - **WHITE color** means that the country had zero Earthquake.
+ - **KEY** is also provided in the application
 
 
