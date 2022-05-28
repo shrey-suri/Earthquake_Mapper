@@ -1,7 +1,7 @@
 # Earthquake Mapper
 
 ***Language:*** Java <br />
-***Library:*** Java FX, Java Swing, Applet, Open GL, Google Maps, Microsoft Maps <br />
+***Library:*** Java FX, Java Swing, Applet, Open GL, Google Maps <br />
 
 ***Summary:*** <br />
  This application shows live feed data of Earthquakes and show it on a map. The features of the application include:
