@@ -1,4 +1,4 @@
-# Earthquake_Mapper
+# Earthquake Mapper
 
 ***Language:*** Java <br />
 ***Library:*** Java FX, Java Swing, Applet, Open GL, Google Maps, Microsoft Maps <br />
